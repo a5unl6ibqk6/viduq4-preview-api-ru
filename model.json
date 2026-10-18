@@ -1,0 +1,15 @@
+{
+  "id": "viduq4-preview",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-18T07:29:29Z",
+  "prices": {
+    "default": {
+      "list": 0.114,
+      "effective": 0.0912
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.0448 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/vidu-q4"
+}
